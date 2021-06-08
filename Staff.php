@@ -4,6 +4,7 @@ class Staff
 {
     public $first_name;
     public $last_name;
+    public $full_name;
 
     public function getFullName()
     {
